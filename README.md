@@ -24,11 +24,11 @@ Send your CV and three short bullet points explaining why you might be a good fi
 **2. Screening Interview:**
 If your profile fits, we’ll invite you for a 30-minute video call to learn more about your background and motivations and to answer your key questions with Gilles
 
-**3. Technical Fit Interview with Sacha:**
-You’ll meet with [Sacha Morard](https://github.com/sachamorard), for a 45 to 60-minute pair programming meeting. You’ll work together on a problem closely related to the scope of the team.
+**3. Technical Fit Interview with Clement:**
+You’ll meet with [Clement Bouvet](https://github.com/clementinator), for a 45 to 60-minute pair programming meeting. You’ll work together on a problem closely related to the scope of the team.
 
-**4. Team Fit Interview with Gilles:**
-You’ll meet with [Gilles Raymond](https://www.linkedin.com/in/gillesraymondmobile/), for a 45 to 60-minute meeting. We want to know you better, and also for you to know us better by asking questions. 
+**4. Team Fit Interview with Sacha:**
+You’ll meet with [Sacha Morard](https://github.com/sachamorard), for a 45 to 60-minute meeting. We want to know you better, and also for you to know us better by asking questions. 
 
 **5. Reference Check:**
 In parallel with the final interviews, we’ll conduct a reference check with two people of your choosing who you have worked with or are currently working with.
@@ -46,7 +46,7 @@ Check out our current job openings on the [issues](https://github.com/edgee-clou
 
 ## Stay Connected
 
-Follow us on [LinkedIn](https://www.linkedin.com/company/edgee-cloud)
+Follow us on [LinkedIn](https://www.linkedin.com/company/edgee-ai)
 
 ## Questions?
 
